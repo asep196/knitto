@@ -1,0 +1,11 @@
+{
+  "name": "knitto",
+  "version": "1.0.0",
+  "description": "Tes backend developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asep Sutiono",
+  "license": "ISC"
+}
